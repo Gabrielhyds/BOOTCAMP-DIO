@@ -1,0 +1,12 @@
+ferramentas para gestão de projetos
+
+    'Trello
+    'Notion
+    'Miro
+    'Monday
+    'EasyRetro
+    'Jira
+    'Clickup
+    'Pipefy
+    'Asana
+    'MUITAS outras

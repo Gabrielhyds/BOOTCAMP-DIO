@@ -1,0 +1,11 @@
+Modelo Ágil x Tradicional
+    cascata (waterfall)
+        - planejamento inicial 
+            - escopo
+            - custo
+            - cronograma
+            - valor entregue no final
+    Scrum
+        - planejamento por sprints
+        - desenvolvimento iterativo e incremental
+        - valor entregue continuamente

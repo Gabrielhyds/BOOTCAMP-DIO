@@ -1,0 +1,9 @@
+O Framework Scrum: 
+    o framework scrum é propositalmente incompleto , apenas
+    definindo as partes necessárias para implementar a teoria
+    scrum
+
+    em vez de fornecer as pessoas instruções detalhadas as regras 
+    do guia do scrum orientam seus relacionamentos e interações.
+
+    

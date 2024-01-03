@@ -1,0 +1,6 @@
+O que é Gestão Ágil?
+    - uma forma agil de gestão que seja....
+        - flexivel que se adapte as mudanças
+        - colaborativa a que gere transparência
+        - voltada ao aprendizado
+        - entrega continua de valor

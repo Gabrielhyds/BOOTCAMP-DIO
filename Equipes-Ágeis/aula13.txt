@@ -1,0 +1,13 @@
+Kanban
+    oq o kanban?
+        é um metodo para definir, gerenciar e melhorar serviços
+        que entregam trabalho de conhecimento, como serviços profissionaris,
+        atividades cirativas e o seign de produtos físicos e de software
+
+        a simplicidade e os beneficios desse metodo faz com que varias
+        empresas usem esse metodo.
+
+        desenvolvido pela toyota na decada de 40
+        problema: gestão de estoque
+
+        

@@ -1,0 +1,19 @@
+O que é Scrum?
+- SCRUM
+        scrum é um framework leve que ajuda pessoas, times e
+        organizações a gerar valor por meio de soluções 
+        adaptativas para problemas complexos
+    - BASES DO SCRUM
+        EMPIRISMO
+            - TOMA DECISÕES OBSERVANDO
+        LEAN THINKING
+            - FOCO NOS DISPERDICIOS
+    - PILARES DO SCRUM
+        A transparencia permir que todos os Ângulos de qualquer
+        processo scrum sejam observado por qualquer pessoa. Isto
+        promove um fluxo de informações facil e transparente em toda
+        a organização e cira uma cultura de trabalho aberta
+
+        - TRASPARENCIA
+        - INSPEÇÃO
+        - ADAPTAÇÃO

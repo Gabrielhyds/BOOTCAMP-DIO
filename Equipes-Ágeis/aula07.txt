@@ -1,0 +1,17 @@
+Projeto x Processo
+    - GERENCIAMENTO DE PROJETOS
+        Processo 
+            - RECORRENTE E CONTINUO
+            - REPLICAVEL
+            - REPETITIVO E REALIZADO REGULARMENTE
+        Projeto
+            - ESFORÇO PARA ATINGIR OBJETIVO
+            - O RESULTADO É EXCLUSIVO
+            - TEM INÍCIO E FIM BEM DEFINIDOS
+        PROCESSO DE SOLICITAÇÃO DE COMPRA EM UMA EMPRESA
+            - você solicita ao responsavel do setor de compras
+            a compra de um notbook, ele faz os orçamentos, o gestor
+            aprova a compra e realiza o pedido.
+        PROJETO DE desenvolvimento DE UM Modelo DE FONE DE OUVIDO
+            - ESSE PROJETO TEM COMEÇO MEIO E FIM ATÉ A ENTREGA DO PRODUTO
+        

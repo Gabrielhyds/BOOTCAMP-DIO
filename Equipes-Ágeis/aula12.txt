@@ -1,0 +1,21 @@
+O que é XP?
+
+extreme programming é um metodo agil cirado no final 
+da decada de 90 para desenvolvimento de software
+
+é uma metodologia que tem como objetivo criar sistemas
+com alta qualidade, com base em uma interação proxima 
+com os clientes, testagem constante e ciclos de desenvolvimentos 
+curtos.
+
+objetivo principal: fazer ciclos de entregas rapidos continuos e incrementais
+para atingir os resultados esperados pelo cliente
+
+oq tem no xp?
+    ciclos
+    cerimonias
+    testes
+    programação em partes
+    feedback
+    aproximação com o cliente
+    flexibilidade
