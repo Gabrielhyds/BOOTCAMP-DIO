@@ -1,0 +1,9 @@
+Entendendo os conceitos de Input, process e output
+        - comando de entrada:
+        variavel = input('digite seu nome: ')
+
+        - processamento
+         resposta = "seja bem vindo".variavel
+
+        - saida
+        print(resposta)
