@@ -1,0 +1,11 @@
+Algoritmos no seu dia a dia:
+
+- inicio 
+    - abri o forno
+forno aceso?
+    se sim 
+        - botar lenha
+    senão 
+        - acender fogo
+assar o pão 
+- fim 

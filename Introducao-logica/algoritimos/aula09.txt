@@ -1,0 +1,5 @@
+Estrutura de decisão-ação
+    - se for isso faça aquilo 
+    - senão faça outra coisa
+    - o famoso if else
+    

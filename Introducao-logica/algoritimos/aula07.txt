@@ -1,0 +1,6 @@
+Estrutura início e fim de fluxo:
+    - todo fluxo tem um começo e fim 
+        - elipse
+        - º começo
+            - codigo
+        - º fim

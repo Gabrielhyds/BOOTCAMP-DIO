@@ -1,0 +1,9 @@
+Estrutura de looping:
+    - loop 
+        - while
+        - for 
+        - do while
+        - foreach
+    bloco de repetição 
+        - finito ou infinito 
+    

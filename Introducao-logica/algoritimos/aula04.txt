@@ -1,0 +1,9 @@
+A base sobre algoritmos:
+    - passo a passo pra fazer um miojo
+        - colocar a panela com agua no fogo
+        - deixar ferver
+        - abrir o pacote
+        - coloca o miojo
+        - deixar 5 a 10 min para cozinhar
+        - colocar o tempero
+        - servir e aproveitar!

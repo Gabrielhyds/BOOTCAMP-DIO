@@ -1,0 +1,12 @@
+Estrutura de saída
+    - por ultimo temos a saida do fluxograma
+        - exemplo 
+            - inicio
+                - digite seu nome
+                    - digitou nome?
+                        - se sim 
+                            - continue;
+                        - senão 
+                            - 'não pode ficar vazio'
+                    - legal deu certo o programa
+           - fim

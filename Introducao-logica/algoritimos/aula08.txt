@@ -1,0 +1,6 @@
+Estrutura de entrada de dados
+    - para pegar a entrada de dados no fluxograma é o lozango
+    - por exemplo
+        inicio  
+            digite seu nome
+        fim

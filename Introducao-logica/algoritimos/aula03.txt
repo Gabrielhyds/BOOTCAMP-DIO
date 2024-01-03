@@ -1,0 +1,3 @@
+A primeira coisa que você precisa aprender para se tornar dev?
+    - quais instruções vc precisa para resolver o problemas    
+        - com algoritmos
