@@ -1,0 +1,19 @@
+Conceito de features
+
+- faça uma visão macro de um app que solicita
+  viagens de veiculos online
+
+-  feature
+    - solicitar veiculo
+    - cadastrar usuario
+    - cadastrar motorista
+
+- input
+    - cadastrar usuario
+        - "clicar no botão novo usuário"
+            - digitar nome, cpf, cartão de credito
+- process
+    - valida o cpf ou irregularidades
+    - valida o cartão de credito
+- output
+    - mensagem de saída - usuário cadastrado com sucesso
